@@ -5,7 +5,7 @@ https://www.privateinternetaccess.com/download/mac-vpn
 
 
 Username: p5113901
-Password: wCAc5pVwdc
+Password: [REDACTED] (Use a secure method to store and retrieve this password)
 
 
 Things to update EOD 5 22 2025
@@ -82,3 +82,9 @@ https://hospitalityesl.as.me/f15m-sched-with-edeline
 
 https://hospitalityesl.as.me/f15m-sched-with-doris
 https://hospitalityesl.as.me/f15m-sched-with-kimhyunh
+
+Hospitality ESL - Welcome to Hospitality ESL
+Good news! 🎉 You can now book individual classes! Choose an instructor and see you in class! 👉 https://hospitalityesl.com/pick-your-native-language
+
+Hospitality ESL - Reservar una clase
+¡Buenas noticias! 🎉 ¡Ahora puedes reservar clases individuales! Elige un instructor y ¡nos vemos en clase! 👉 https://hospitalityesl.com/pick-your-native-language
