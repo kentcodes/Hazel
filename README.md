@@ -1,18 +1,13 @@
 # Hazel
 this is the codepsace setup for bot hazel
 
-https://www.privateinternetaccess.com/download/mac-vpn
-
-
-Username: p5113901
-Password: [REDACTED] (Use a secure method to store and retrieve this password)
-
-
-Things to update EOD 5 22 2025
+# Things to update EOD 5 22 2025
 Send weekly update of the bot
 1. What are clicks to the resource page of our website?
 2. What AI features of Google, come with our Workspace account? Notebook LLM, DeepResearch, Gemini Pro
 
+
+# Pick your Native Language links
 
 https://www.hospitalityesl.com/spanish-speaking-english-instructors
 https://www.hospitalityesl.com/profesores-de-ingles-hispanohablantes
@@ -22,6 +17,7 @@ https://www.hospitalityesl.com/arabic-speaking-english-instructors
 https://www.hospitalityesl.com/hatian-creole-speaking-english-instructors
 https://www.hospitalityesl.com/vietnamese-speaking-english-instructors
 
+# Regular 30 min Class links
 
 https://hospitalityesl.as.me/sched-with-daniel
 https://hospitalityesl.as.me/sched-with-mayerlin
@@ -41,11 +37,12 @@ https://hospitalityesl.as.me/sched-with-edeline
 https://hospitalityesl.as.me/sched-with-doris
 https://hospitalityesl.as.me/sched-with-kimhyunh
 
+# Email Data
 
 Teachers@hospitalityesl.com
 Hospitality2025
 
-//copay 5 dollar class
+# Copay 5 dollar class
 
 https://hospitalityesl.as.me/co5-sched-with-daniel
 https://hospitalityesl.as.me/co5-sched-with-mayerlin
@@ -66,7 +63,7 @@ https://hospitalityesl.as.me/co5-sched-with-doris
 https://hospitalityesl.as.me/co5-sched-with-kimhyunh
 
 
-//free 15min class
+# free 15min class
 https://hospitalityesl.as.me/f15m-sched-with-daniel
 https://hospitalityesl.as.me/f15m-sched-with-mayerlin
 https://hospitalityesl.as.me/f15m-sched-with-nelsy
@@ -83,8 +80,13 @@ https://hospitalityesl.as.me/f15m-sched-with-edeline
 https://hospitalityesl.as.me/f15m-sched-with-doris
 https://hospitalityesl.as.me/f15m-sched-with-kimhyunh
 
+# Other Notes
 Hospitality ESL - Welcome to Hospitality ESL
 Good news! 🎉 You can now book individual classes! Choose an instructor and see you in class! 👉 https://hospitalityesl.com/pick-your-native-language
 
 Hospitality ESL - Reservar una clase
 ¡Buenas noticias! 🎉 ¡Ahora puedes reservar clases individuales! Elige un instructor y ¡nos vemos en clase! 👉 https://hospitalityesl.com/pick-your-native-language
+
+
+# BotError_AlwaysALive
+An unexpected error occurred when trying to process your request. (Trace ID: ec9c19e2ac90b238a0bedbc12e30b044)
