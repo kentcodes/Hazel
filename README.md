@@ -90,3 +90,15 @@ Hospitality ESL - Reservar una clase
 
 # BotError_AlwaysALive
 An unexpected error occurred when trying to process your request. (Trace ID: ec9c19e2ac90b238a0bedbc12e30b044)
+
+# Plan Senders
+100 = +1 402-277-8704
+300 = +1 402-403-9542
+
+Teachers using = +1 402-403-9059
+
+# AccToks
+bp_pat_u52wLdnTMF9XyqPHA4ky6O5B82wW5ZFGCRQB
+
+https://webhook.botpress.cloud/6e754e46-3d33-4189-ac30-298e74e60255
+
